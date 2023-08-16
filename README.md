@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<div id="Header" align="center">
+  <img src="https://media.giphy.com/media/Qb2bw6UC2zQuwdtCDl/giphy.gif" alt="" width="200" height="150">
+  <h1 align="center"> Hi! I'am Albert</h1>
+ <h3>I am a full stack programmer jr. I love the world of technology, my greatest satisfaction in my work is when I see my Code and on the screen your satisfaction is reflected, I like to imagine and invent</h3>
+</div>
 <!--
 **Albert1197/albert1197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
