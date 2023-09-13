@@ -8,3 +8,5 @@
 Soy un desarrollador web con experiencia en CSS, HTML, JavaScript, React, PHP, Laravel y MySQL. Tengo una sólida comprensión de los fundamentos de la programación y estoy constantemente aprendiendo nuevas tecnologías. Soy un trabajador rápido y eficiente, y siempre estoy dispuesto a asumir nuevos retos.
 
 
+
+
