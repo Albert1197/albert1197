@@ -28,19 +28,19 @@
 
 <!-- Estadísticas de GitHub -->
 ### 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario_de_github&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![Estadísticas de GitHub]()
 
 <!-- Lenguajes más usados -->
 ### 💻 Lenguajes más usados
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario_de_github&layout=compact&theme=radical)
+![Lenguajes más usados]()
 
 <!-- Proyectos destacados -->
 ### 🔥 Proyectos Destacados
-- [Proyecto 1](https://github.com/tu_usuario_de_github/proyecto-1)
-- [Proyecto 2](https://github.com/tu_usuario_de_github/proyecto-2)
+- [Proyecto 1]()
+- [Proyecto 2]()
 
 <!-- Visitas -->
-![Visitas](https://komarev.com/ghpvc/?username=tu_usuario_de_github&color=blue)
+![Visitas]()
 
 <!-- Pie de página -->
 <p align="center">
